@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## About Me
+
+I'm 22 years old, I'm a student in computer security in Paris for 1 year now.
+I make some pictures as well although they are not of an exceptional quality !
+
+Chess player ♟️ , CTF player 🏴.
+
 <!--
 **hxtninfosec/hxtninfosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
